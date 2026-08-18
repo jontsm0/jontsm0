@@ -1,53 +1,50 @@
-<div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="jntsm — Python, Back-end and Applied AI" />
-</div>
+<img width="1280" height="280" alt="profile-banner" src="https://github.com/user-attachments/assets/6cda5a19-8a23-44e3-9ca5-36ec55f9d58a" />
 
-## About
+## About me
 
-Estudante de Análise e Desenvolvimento de Sistemas focado em Python, desenvolvimento backend e construção de sistemas orientados a problemas reais. Atualmente desenvolvendo fundamentos de engenharia de software, APIs, bancos de dados e automação, com especialização progressiva em Applied AI, LLMs e agentes.
+I'm **Jon**, a Software Analysis and Development student focused on building a strong foundation in **Python and back-end development**, with a long-term direction toward **Applied AI, automation and AI systems**.
 
 - Backend AI Engineer intern at **FlyRank**
-- Studying **Software Analysis and Development**
-- Building foundations in **Python, SQL, APIs and testing**
-- Exploring **LLMs, prompt design, agents and evaluation**
-- Based in Rio de Janeiro, Brazil
+- Studying **Software Analysis and Development (ADS)**
+- Building practical foundations in **Python, Git, HTTP/REST, SQL and software testing**
+- Progressing toward **FastAPI, PostgreSQL, Docker and cloud**
+- Interested in **LLM applications, tool calling, AI agents and automation**
+- Based in **Rio de Janeiro, Brazil**
 
-## Currently learning
-
-- Python fundamentals and clean code
-- Back-end development and REST APIs
-- SQL, data validation and automated testing
-- LLM applications and agentic workflows
-- Git, GitHub and technical documentation
-
-## Technologies
+## Current stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
-## Learning path
+## Currently learning
 
-- **Python:** Cisco Networking Academy, freeCodeCamp and Boot.dev
-- **Applied AI:** Google AI Professional Certificate
-- **LLMs:** PUC-Rio — Introduction to LLMs
-- **AI Fluency:** Anthropic learning paths
-- **Modern AI:** DIO — Machine Learning, LLMs, Generative AI and Agents
+`Python` · `Git/GitHub` · `HTTP/REST` · `SQL` · `FastAPI` · `PostgreSQL` · `pytest` · `Docker`
 
-## Working principles
+## Direction
 
-- Understand before automating
-- Build before claiming expertise
-- Document technical decisions
-- Use AI to support, not replace, reasoning
+`Applied AI` · `LLM Applications` · `Automation` · `Tool Calling` · `AI Agents` · `Cloud`
+
+## Learning approach
+
+- Build solid fundamentals before adding abstractions
+- Learn through real problems and practical implementation
+- Use AI as a support tool, not as a replacement for reasoning
+- Document technical decisions and understand trade-offs
+- Prefer depth and consistency over collecting technologies
+
+## Current learning ecosystem
+
+- **Boot.dev** — Python and back-end foundations
+- **GitHub Education** — development tools and workflow
+- **freeCodeCamp** — complementary practice and reference
+- **Official documentation** — Python, Git and tools used during development
 
 ---
 
 <div align="center">
-  <sub>Learning, building and documenting the transition into software development.</sub>
+  <sub>Building strong software foundations with Python and progressing toward Applied AI Engineering.</sub>
 </div>
