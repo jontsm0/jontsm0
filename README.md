@@ -4,9 +4,7 @@
 
 ## About
 
-I'm **Jon**, a Software Analysis and Development student transitioning professionally into technology.
-
-My current focus is **Python back-end development** and **applied AI**, with emphasis on APIs, LLM applications, AI agents, documentation and technical problem-solving.
+Estudante de Análise e Desenvolvimento de Sistemas focado em Python, desenvolvimento backend e construção de sistemas orientados a problemas reais. Atualmente desenvolvendo fundamentos de engenharia de software, APIs, bancos de dados e automação, com especialização progressiva em Applied AI, LLMs e agentes.
 
 - Backend AI Engineer intern at **FlyRank**
 - Studying **Software Analysis and Development**
