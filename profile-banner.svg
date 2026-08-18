@@ -1,0 +1,11 @@
+<svg width="1280" height="280" viewBox="0 0 1280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="280" rx="18" fill="#0D1117"/>
+  <rect x="64" y="68" width="2" height="144" fill="#D6A83D"/>
+
+  <text x="96" y="139" fill="#F0F3F6" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">jntsm.</text>
+  <text x="99" y="181" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="3">PYTHON / BACK-END / APPLIED AI</text>
+
+  <text x="1118" y="211" fill="#6E7681" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end">RIO DE JANEIRO, BR</text>
+
+  <rect x="0.5" y="0.5" width="1279" height="279" rx="17.5" stroke="#30363D"/>
+</svg>
